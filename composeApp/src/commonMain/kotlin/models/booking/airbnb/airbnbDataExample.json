@@ -1,0 +1,62 @@
+{
+  "__typename": "ShareSave",
+  "entityId": "746222848659632957",
+  "entityType": "STAY",
+  "shareButton": {
+    "__typename": "BasicListItem",
+    "title": "Partager",
+    "subtitle": null,
+    "loggingEventData": {
+      "__typename": "LoggingEventData",
+      "loggingId": "pdp.title.share",
+      "experiments": [],
+      "eventData": null,
+      "eventDataSchemaName": null,
+      "section": "title",
+      "component": "share"
+    }
+  },
+  "saveButton": {
+    "__typename": "BasicListItem",
+    "title": "Enregistrer",
+    "subtitle": null,
+    "loggingEventData": {
+      "__typename": "LoggingEventData",
+      "loggingId": "pdp.title.save",
+      "experiments": [],
+      "eventData": null,
+      "eventDataSchemaName": null,
+      "section": "title",
+      "component": "save"
+    }
+  },
+  "unsaveButton": {
+    "__typename": "BasicListItem",
+    "title": "Enregistré",
+    "subtitle": null,
+    "loggingEventData": {
+      "__typename": "LoggingEventData",
+      "loggingId": "pdp.title.unsave",
+      "experiments": [],
+      "eventData": null,
+      "eventDataSchemaName": null,
+      "section": "title",
+      "component": "unsave"
+    }
+  },
+  "sharingConfig": {
+    "__typename": "PdpSharingConfig",
+    "title": "Villa · Tourouvre au Perche · ★4,96 · 2 chambres · 5 lits · 1 salle de bain"
+  },
+  "embedData": {
+    "__typename": "StayEmbedData",
+    "id": "746222848659632957",
+    "name": "Casa Friendly avec sa piscine chauffée …",
+    "personCapacity": 6,
+    "pictureUrl": "https://a0.muscache.com/pictures/miso/Hosting-746222848659632957/original/cf026c5a-7fbf-489b-a419-8c2b439bc323.jpeg",
+    "propertyType": "Logement entier : villa",
+    "url": null,
+    "reviewCount": 53,
+    "starRating": 4.96
+  }
+}

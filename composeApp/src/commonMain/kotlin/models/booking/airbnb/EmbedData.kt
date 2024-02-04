@@ -10,6 +10,6 @@ data class EmbedData(
     val pictureUrl: String?,
     val propertyType: String?,
     val reviewCount: Int?,
-    val starRating: Double?,
+    val starRating: Float?,
     val url: String?
 )
